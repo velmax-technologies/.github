@@ -1,4 +1,4 @@
-# Velmax Technologies 🇰🇪
+# Velmax Technologies
 
 **Software • Networking • Infrastructure**
 
