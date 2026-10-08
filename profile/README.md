@@ -2,8 +2,7 @@
 
 **Software • Networking • Infrastructure**
 
-Velmax Technologies builds practical technology solutions for businesses,
-developers, and Internet Service Providers.
+Velmax Technologies builds practical software, networking, and infrastructure solutions for businesses, developers, and Internet Service Providers.
 
 ## 🚀 What We Build
 
